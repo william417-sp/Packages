@@ -1,5 +1,5 @@
 {
-  "name": "@icebeam7/paquete-estadistica",
+  "name": "@william417-sp/packages",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
+    "url": "https://github.com/william417-sp/Packages.git"
   },
   "keywords": [],
   "author": "Luis Beltrán",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/icebeam7/paquete-estadistica-js/issues"
+    "url": "https://github.com/william417-sp/Packages/issues"
   },
-  "homepage": "https://github.com/icebeam7/paquete-estadistica-js#readme",
+  "homepage": "https://github.com/william417-sp/Packages#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
